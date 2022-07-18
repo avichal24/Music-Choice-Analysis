@@ -1,5 +1,5 @@
 
-MUSIC PREFERENCE:-
+# MUSIC PREFERENCE:-
 An Analysis of a basic handmade dataset 
 to process forward to a music streaming app
 company as a guide in buying the best
@@ -7,7 +7,7 @@ company as a guide in buying the best
 
 
 
-About the Dataset
+## About the Dataset
 
 It is basically my First Data Analysis 
 project wherein keeping my first deployment
