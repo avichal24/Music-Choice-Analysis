@@ -91,8 +91,6 @@ regressor.fit(x_train, y_train)
 # predicting a Random value with input as x variable caagories.
 regressor.predict([[23,1]])
 
-![Decisiojn tree](https://user-images.githubusercontent.com/109500969/179482564-7b741a0f-b1cc-456f-8f6f-f81c373b48ec.png)
-
 
 ## Some exploratory Data Analysis for Conclusions:
 
