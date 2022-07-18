@@ -52,6 +52,9 @@ namely decision  nodes and leaves.
 The leaves are the decisions or the final
 outcomes. And the decision nodes are where 
 the data is split.
+
+![Decision tree](https://user-images.githubusercontent.com/109500969/179484002-6ad30456-1798-4f46-9c86-fe75b76ae3cc.png)
+
 ## Deployment
 
 To deploy this project run
