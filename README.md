@@ -68,7 +68,6 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('/content/music.csv')
 
-
 ## Making arrangements to remove the Null Values.
 
 df.isnull().sum()
@@ -92,6 +91,9 @@ regressor.fit(x_train, y_train)
 # predicting a Random value with input as x variable caagories.
 regressor.predict([[23,1]])
 
+![Decisiojn tree](https://user-images.githubusercontent.com/109500969/179482564-7b741a0f-b1cc-456f-8f6f-f81c373b48ec.png)
+
+
 ## Some exploratory Data Analysis for Conclusions:
 
 sns.countplot(df['genre'])
@@ -109,10 +111,10 @@ sns.countplot(df['age'])
 ## 🚀 About Me
 I'm a Mechanical Engineer by education, and
 love to work with data, eventually started 
-my coding journey for one of my Drone project , 
-then realized that it is something that makes
+my coding journey for one of my Drone project 
+where I realized that, it is something that makes
 me feel happy in doing.
 
 
-Hope! You liked it, and it is just a begining 
+Hope! You liked it, and it is just a begining, 
 many more to come, till then Happy Analysing!!
