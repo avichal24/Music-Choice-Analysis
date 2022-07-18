@@ -57,6 +57,7 @@ the data is split.
 
 ## Deployment
 
+PLEASE LOOK FOR .ipynb FORMAT FILE, BEST EXPLANATION IS THERE ONLY.
 To deploy this project run
 
 ```bash
@@ -107,6 +108,8 @@ sns.countplot(df['age'])
 ##Conclusion:
 ###The above diagram dipicts us for the Age group of people to be targeted for the better gorwth and we conclude that 'The young segnment' is most of listening Music
 ```
+## Do Not Forget to visit the "Music_Choice Analysis.ipynb" file.
+
 
 
 ## 🚀 About Me
